@@ -2,7 +2,7 @@
 
 **Pro Manage** is a comprehensive task management web application built using the **MERN stack**. This tool is designed to enhance productivity and task collaboration, featuring secure user authentication through **JWT (JSON Web Token)**.
 
-![Pro Manage Dashboard](https://github.com/user-attachments/assets/67f64ac2-9e44-4ead-bbec-b5c19f0e90de) <!-- Replace this with the actual path to your image -->
+![Pro Manage Dashboard](https://github.com/user-attachments/assets/67f64ac2-9e44-4ead-bbec-b5c19f0e90de)
 
 # Essential Features of Pro Manage
 
@@ -41,6 +41,4 @@
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Token)
 
-If you have any questions, or feedback, or need support, please contact me directly at rohitjaiswal8898@gmail.com <br>
 Thank you for checking out Pro Manage! I hope it's useful to you.
-
