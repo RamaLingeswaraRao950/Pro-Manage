@@ -31,5 +31,3 @@
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Token)
-
-Thank you for checking out Pro Manage! I hope it's useful to you.
